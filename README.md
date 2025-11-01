@@ -1,1 +1,1 @@
-# Jim-and-the-Orders
+# Jim-and-the-Orders This code calculates the total time each customer takes for their order by summing the order and preparation times, then sorts the customers by this total time. It returns a list of customer indices in the order their orders are completed.
